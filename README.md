@@ -1,10 +1,10 @@
 
-### Video Generation (`generate_video_frames_stable_diffusion`)
+### Video Generation
 - Uses HuggingFace's Stable Diffusion model
 - Generates 720p keyframes from prompts
 - Creates smooth visual storytelling synchronized with music
 
-### Video Composition (`create_video_from_frames_and_audio`)
+### Video Composition
 - Combines frame sequences with seamless audio mix
 - Maintains perfect audio-video sync
 - Outputs professional MP4 file
